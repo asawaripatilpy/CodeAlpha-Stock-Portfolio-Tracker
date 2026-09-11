@@ -47,6 +47,7 @@ CodeAlpha-Stock-Portfolio-Tracker/
 ├── portfolio.txt
 ├── portfolio.csv
 └── README.md
+```
 
 ## 💻 How to Run
 
@@ -54,9 +55,23 @@ CodeAlpha-Stock-Portfolio-Tracker/
 
 ```bash
 git clone https://github.com/asawaripatilpy/CodeAlpha-Stock-Portfolio-Tracker.git
+```
 
+### 2. Open the project folder
 
-🖥️ Application Menu
+Open the project folder in VS Code.
+
+### 3. Run the Python program
+
+```bash
+python stock_tracker.py
+```
+
+### 4. Use the application
+
+Choose an option from the menu and enter the required stock symbol and quantity.
+
+## 🖥️ Application Menu
 
 The application provides a simple menu:
 
@@ -66,7 +81,8 @@ The application provides a simple menu:
 4. Save Portfolio as CSV
 5. Exit
 
-📊 Example Output
+## 📊 Example Output
+
 ==============================================
               YOUR PORTFOLIO
 ==============================================
@@ -78,7 +94,7 @@ TSLA      2         $250      $500         35.71%
 TOTAL INVESTMENT VALUE: $1400
 ==============================================
 
-📁 Output Files
+## 📁 Output Files
 
 The application can save portfolio information in two formats:
 
@@ -91,7 +107,8 @@ portfolio.csv
 
 Contains stock, quantity, price, and investment information in a spreadsheet-friendly format.
 
-📚 Key Concepts Demonstrated
+## 📚 Key Concepts Demonstrated
+
 This project demonstrates practical use of:
 
 Dictionary → storing stock prices
@@ -104,7 +121,7 @@ Conditions → validating user choices
 Exception Handling → handling invalid quantities
 File Handling → creating TXT and CSV files
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Possible future improvements include:
 
@@ -115,18 +132,10 @@ Profit and loss calculation
 Database storage
 Historical stock price charts
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Asawari Patil
 
-📝 Disclaimer
+## 📝 Disclaimer
 
 This project is created for educational purposes. The stock prices used in this application are manually defined and do not represent real-time market prices or financial advice.
-
-
-### ⚠️ One important thing
-
-Where you see:
-
-```text
-git clone https://github.com/asawaripatilpy/CodeAlpha-Stock-Portfolio-Tracker.git
