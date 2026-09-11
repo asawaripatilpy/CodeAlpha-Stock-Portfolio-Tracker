@@ -1,0 +1,7 @@
+STOCK PORTFOLIO TRACKER
+=======================
+
+AAPL | Quantity: 5 | Price: $180 | Value: $900
+TSLA | Quantity: 3 | Price: $250 | Value: $750
+
+Total Investment Value: $1650
