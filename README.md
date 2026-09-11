@@ -53,7 +53,8 @@ CodeAlpha-Stock-Portfolio-Tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/asawaripatilpy/CodeAlpha-Stock-Portfolio-Tracker.git
+
 
 🖥️ Application Menu
 
@@ -103,7 +104,6 @@ Conditions → validating user choices
 Exception Handling → handling invalid quantities
 File Handling → creating TXT and CSV files
 
-files
 🔮 Future Improvements
 
 Possible future improvements include:
@@ -129,3 +129,4 @@ This project is created for educational purposes. The stock prices used in this 
 Where you see:
 
 ```text
+git clone https://github.com/asawaripatilpy/CodeAlpha-Stock-Portfolio-Tracker.git
